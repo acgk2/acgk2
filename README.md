@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Alasdair Knight
+- 👀 I’m interested in chemo-physcial processes in planetary surface environments, critical zone science, chemical weathering and climate
+- 🌱 I’m studying for a PhD in Earth Science
+- 📫 acgk2@cam.ac.uk
