@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Alasdair Knight
-- 🌱 I’m studying for a PhD in Earth Science
+- 🌱 I’m a PhD student at the University of Cambridge
 - 📫 acgk2@cam.ac.uk
