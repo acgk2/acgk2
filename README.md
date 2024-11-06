@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Alasdair Knight
-- 🌱 I’m a PhD student at the University of Cambridge
-- 📫 acgk2@cam.ac.uk
+- 📫 alasdair.c.g.knight@gmail.com
